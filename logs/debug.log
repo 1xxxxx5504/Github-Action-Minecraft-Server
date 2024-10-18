@@ -1,0 +1,144 @@
+[05:44:49] [main/INFO] [FabricLoader/GameProvider]: Loading Minecraft 1.20.1 Banner 1.20.1-754 with Fabric Loader 0.16.7
+[05:44:49] [main/INFO] [FabricLoader]: Loading 49 mods:
+	- banner 1.20.1-754
+	   |-- banner-api 1.20.1-754
+	   |-- banner-bukkit-manager 1.20.1-754
+	   |-- banner-stackdeobf 1.20.1-754
+	   \-- banner-transitive-access-wideners 1.20.1-754
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabricloader 0.16.7
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.20.1
+[05:44:49] [main/INFO] [FabricLoader/Mixin]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Github-Action-Minecraft-Server/libraries/net/fabricmc/sponge-mixin/0.15.3+mixin.0.8.7/sponge-mixin-0.15.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[05:44:49] [main/INFO] [FabricLoader/Mixin]: Compatibility level set to JAVA_17
+[05:44:49] [main/INFO] [BannerMC]:  _____       ___   __   _   __   _   _____   _____   
+[05:44:49] [main/INFO] [BannerMC]: |  _  \     /   | |  \ | | |  \ | | | ____| |  _  \  
+[05:44:49] [main/INFO] [BannerMC]: | |_| |    / /| | |   \| | |   \| | | |__   | |_| |  
+[05:44:49] [main/INFO] [BannerMC]: |  _  {   / / | | | |\   | | |\   | |  __|  |  _  /  
+[05:44:49] [main/INFO] [BannerMC]: | |_| |  / /  | | | | \  | | | \  | | |___  | | \ \  
+[05:44:49] [main/INFO] [BannerMC]: |_____/ /_/   |_| |_|  \_| |_|  \_| |_____| |_|  \_\ 
+[05:44:49] [main/INFO] [BannerMC]: Welcome to Banner 1.20.1 - 1.20.1-754, Java 65.0
+[05:44:49] [main/INFO] [BannerMC]: Injecting into root logger...
+[05:44:49] [main/WARN] [BannerMC]: By enabling mojang mappings, you agree to their license:
+[05:44:49] [main/WARN] [BannerMC]: (c) 2020 Microsoft Corporation.These mappings are provided "as-is" and you bear the risk of using them.
+[05:44:49] [main/WARN] [BannerMC]: You may copy and use the mappings for development purposes, but you may not redistribute the mappings complete and unmodified.
+[05:44:49] [main/WARN] [BannerMC]: Microsoft makes no warranties, express or implied, with respect to the mappings provided here.
+[05:44:49] [main/WARN] [BannerMC]: Use and modification of this document or the source code (in any form) of Minecraft: Java Edition is governed by
+[05:44:49] [main/WARN] [BannerMC]: the Minecraft End User License Agreement available at https://account.mojang.com/documents/minecraft_eula.
+[05:44:49] [main/INFO] [BannerMC]: Creating asynchronous mapping cache executor...
+[05:44:49] [Mappings Cache Thread/INFO] [BannerMC]: Verifying cache of mojang mappings...
+[05:44:49] [Mappings Cache Thread/INFO] [BannerMC]: Verified cache of mojang mappings (took 1ms)
+[05:44:49] [Mappings Cache Thread/INFO] [BannerMC]: Parsing mojang mappings...
+[05:44:50] [main/INFO] [FabricLoader/MixinExtras|Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[05:44:51] [Mappings Cache Thread/INFO] [BannerMC]: Parsed mojang mappings (took 1672ms)
+[05:44:51] [Mappings Cache Thread/INFO] [BannerMC]: Caching mojang mappings...
+[05:44:51] [Mappings Cache Thread/INFO] [BannerMC]: Cached mojang mappings (took 196ms)
+[05:44:51] [Mappings Cache Thread/INFO] [BannerMC]: Cached mappings have been built (took 1889ms)
+[05:44:51] [Mappings Cache Thread/INFO] [BannerMC]:  Classes: 4945
+[05:44:51] [Mappings Cache Thread/INFO] [BannerMC]:  Methods: 26367
+[05:44:51] [Mappings Cache Thread/INFO] [BannerMC]:  Fields: 23166
+[05:44:51] [ForkJoinPool.commonPool-worker-1/INFO] [BannerMC]: Shutting down asynchronous mapping cache executor...
+[05:44:51] [ForkJoinPool.commonPool-worker-1/INFO] [BannerMC]: Loading libraries, please wait...
+[05:45:00] [main/INFO] [banner]: Registering Banner Event Dispatchers...
+[05:45:00] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:45:02] [main/INFO] [net.minecraft.class_1863]: Loaded 7 recipes
+[05:45:02] [main/INFO] [net.minecraft.class_163]: Loaded 1271 advancements
+[05:45:02] [main/INFO] [net.fabricmc.fabric.impl.biome.modification.BiomeModificationImpl]: Applied 0 biome modifications to 0 of 64 new biomes in 1.880 ms
+[05:45:02] [Server thread/INFO] [net.minecraft.class_3176]: Starting minecraft server version 1.20.1
+[05:45:02] [Server thread/INFO] [net.minecraft.class_3176]: Loading properties
+[05:45:02] [Server thread/INFO] [net.minecraft.class_3176]: Default game type: SURVIVAL
+[05:45:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Generating keypair
+[05:45:02] [Server thread/INFO] [net.minecraft.class_3176]: Starting Minecraft server on *:25565
+[05:45:02] [Server thread/INFO] [net.minecraft.class_3242]: Using epoll channel type
+[05:45:03] [Server thread/INFO] [Minecraft]: This server is running Banner version 1.20.1-754 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
+[05:45:03] [Server thread/INFO] [banner]: Registering for Bukkit ...
+[05:45:03] [Server thread/INFO] [banner]: Registered 0 new items
+[05:45:03] [Server thread/INFO] [banner]: Registered 0 new blocks
+[05:45:03] [Server thread/INFO] [banner]: Loading Bukkit plugins, please wait...
+[05:45:03] [Server thread/INFO] [Minecraft]: Debug logging is disabled
+[05:45:03] [Server thread/INFO] []: Server Ping Player Sample Count: 12
+[05:45:03] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
+[05:45:04] [Server thread/INFO] [com.mohistmc.banner.plugin.BannerPlugin]: [BannerPlugin] Loading BannerPlugin v1.20.1-754
+[05:45:04] [Server thread/INFO] [net.minecraft.class_3176]: Preparing level "world"
+[05:45:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[05:45:10] [Worker-Main-3/INFO] [net.minecraft.class_3951]: Preparing spawn area: 0%
+[05:45:10] [Worker-Main-3/INFO] [net.minecraft.class_3951]: Preparing spawn area: 0%
+[05:45:10] [Worker-Main-2/INFO] [net.minecraft.class_3951]: Preparing spawn area: 0%
+[05:45:10] [Worker-Main-2/INFO] [net.minecraft.class_3951]: Preparing spawn area: 0%
+[05:45:10] [Worker-Main-2/INFO] [net.minecraft.class_3951]: Preparing spawn area: 0%
+[05:45:10] [Worker-Main-2/INFO] [net.minecraft.class_3951]: Preparing spawn area: 0%
+[05:45:10] [Worker-Main-2/INFO] [net.minecraft.class_3951]: Preparing spawn area: 0%
+[05:45:10] [Worker-Main-3/INFO] [net.minecraft.class_3951]: Preparing spawn area: 4%
+[05:45:11] [Worker-Main-1/INFO] [net.minecraft.class_3951]: Preparing spawn area: 84%
+[05:45:11] [Server thread/INFO] [net.minecraft.class_3951]: Time elapsed: 4122 ms
+[05:45:11] [Server thread/INFO] [com.mohistmc.banner.plugin.BannerPlugin]: [BannerPlugin] Enabling BannerPlugin v1.20.1-754
+[05:45:11] [Server thread/INFO] [com.mohistmc.banner.plugin.BannerPlugin]: [BannerPlugin] Banner Plugin is enabled.
+[05:45:11] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
+[05:45:11] [Server thread/INFO] [net.minecraft.class_3176]: Done (7.859s)! For help, type "help"
+[05:45:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping the server
+[05:45:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:45:38] [Server thread/INFO] [com.mohistmc.banner.plugin.BannerPlugin]: [BannerPlugin] Disabling BannerPlugin v1.20.1-754
+[05:45:38] [Server thread/INFO] [com.mohistmc.banner.plugin.BannerPlugin]: [BannerPlugin] Banner Plugin is disabled!
+[05:45:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:45:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[05:45:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:46:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:46:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:46:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:46:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:46:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:46:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:46:09] [Exit Thread/INFO] [banner]: 3 threads not shutting down correctly, force exiting
